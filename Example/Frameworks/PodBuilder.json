@@ -4,6 +4,9 @@
     "Google-Mobile-Ads-SDK": {
       "module_name": "GoogleMobileAds"
     },
+    "Alamofire": {
+      "static_framework": true
+    }
   },
   "skip_licenses": [
 
